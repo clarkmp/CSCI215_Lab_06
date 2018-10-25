@@ -52,6 +52,6 @@ function validate() {
 }
 
 function myAjaxFunction() {
-    alert("The AJAX has been made!")
+    alert("The AJAX has been made!");
     console.clear();
 }
